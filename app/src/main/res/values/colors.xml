@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC50C</color>
+    <color name="colorPrimaryDark">#E5B009</color>
+    <color name="colorAccent">#000000</color>
+    <color name="fbBlue">#3F5996</color>
+    <color name="tBlue">#29C5F6</color>
+    <color name="gRed">#D03E2F</color>
+
+    <color name="Judul">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="etBack">#DADADA</color>
+    <color name="textColor">#6e6e6e</color>
+</resources>
